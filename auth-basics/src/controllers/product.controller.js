@@ -1,12 +1,16 @@
 const express = require("express");
 
 const Product = require("../models/product.model");
+const authCheck = require("../middleware/auth.middleware")
 
 const router = express.Router();
 
-router.post("", async (req, res) => {
+router.post("", authCheck,async (req, res) => {
   try {
-    const product = await Product.create(req.body);
+    const product = await Product.create({
+      ...req.body,
+      user_id: req.user._id
+    });
 
     return res.send(product);
   } catch (err) {
@@ -24,4 +28,13 @@ router.get("", async (req, res) => {
   }
 });
 
+router.get("/my", authCheck, async (req, res) => {
+  try {
+    const products = await Product.find({ user_id: req.user_id});
+
+    return res.send(products);
+  } catch (err) {
+    return res.status(500).send({ message: err.message });
+  }
+});
 module.exports = router;

@@ -6,7 +6,7 @@ const jwt = require("jsonwebtoken");
 const router = express.Router();
 
 const newToken = (user) => {
-  return jwt.sign({ user }, "masai")
+  return jwt.sign({ user }, process.env.JWT_SECRET_KEY)
 }
 
 router.post("/register", async (req, res) => {
@@ -47,7 +47,7 @@ router.post("/login", async (req, res) => {
         .json("User email or password is incorrect");
     }
     //3. if exist then check if password is matching
-    const matching = user.checPassword(req.body.password)
+    const matching = user.checkPassword(req.body.password)
 
     // 4. if not matching then throw 400
     if(!matching){
