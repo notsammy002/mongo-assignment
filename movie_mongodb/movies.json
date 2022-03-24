@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "movie_name": "Wicked City (Yôjû toshi)",
+    "movie_genre": "Animation|Fantasy|Horror|Sci-Fi",
+    "production_year": 1997,
+    "budget": 15000
+  },
+  {
+    "id": 2,
+    "movie_name": "Pulgasari",
+    "movie_genre": "Action|Drama|Fantasy",
+    "production_year": 2000,
+    "budget": 13000
+  },
+  {
+    "id": 3,
+    "movie_name": "Hits",
+    "movie_genre": "(no genres listed)",
+    "production_year": 1991,
+    "budget": 19000
+  },
+  {
+    "id": 4,
+    "movie_name": "Quiet Ones, The",
+    "movie_genre": "Horror",
+    "production_year": 2003,
+    "budget": 19000
+  },
+  {
+    "id": 5,
+    "movie_name": "Traces of Red",
+    "movie_genre": "Mystery|Thriller",
+    "production_year": 1995,
+    "budget": 14000
+  },
+  {
+    "id": 6,
+    "movie_name": "Marie and Bruce",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 1990,
+    "budget": 15000
+  },
+  {
+    "id": 7,
+    "movie_name": "Alvin and the Chipmunks: Chipwrecked",
+    "movie_genre": "Animation|Comedy",
+    "production_year": 2017,
+    "budget": 19000
+  },
+  {
+    "id": 8,
+    "movie_name": "Jungle2Jungle (a.k.a. Jungle 2 Jungle)",
+    "movie_genre": "Children|Comedy",
+    "production_year": 2014,
+    "budget": 17000
+  },
+  {
+    "id": 9,
+    "movie_name": "We Cause Scenes",
+    "movie_genre": "(no genres listed)",
+    "production_year": 1990,
+    "budget": 11000
+  },
+  {
+    "id": 10,
+    "movie_name": "That Thing You Do!",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2003,
+    "budget": 14000
+  },
+  {
+    "id": 11,
+    "movie_name": "Girls Can't Swim (Filles ne savent pas nager, Les)",
+    "movie_genre": "Drama",
+    "production_year": 2014,
+    "budget": 10000
+  },
+  {
+    "id": 12,
+    "movie_name": "Another Year",
+    "movie_genre": "Drama",
+    "production_year": 2000,
+    "budget": 11000
+  },
+  {
+    "id": 13,
+    "movie_name": "Deadline (Sprängaren)",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2009,
+    "budget": 17000
+  },
+  {
+    "id": 14,
+    "movie_name": "My Kid Could Paint That",
+    "movie_genre": "Documentary",
+    "production_year": 2011,
+    "budget": 10000
+  },
+  {
+    "id": 15,
+    "movie_name": "Lilo & Stitch",
+    "movie_genre": "Adventure|Animation|Children|Sci-Fi",
+    "production_year": 2001,
+    "budget": 10000
+  },
+  {
+    "id": 16,
+    "movie_name": "Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen)",
+    "movie_genre": "Action|Adventure|Animation|Sci-Fi",
+    "production_year": 2010,
+    "budget": 19000
+  },
+  {
+    "id": 17,
+    "movie_name": "Bloody Sunday",
+    "movie_genre": "Drama",
+    "production_year": 2017,
+    "budget": 17000
+  },
+  {
+    "id": 18,
+    "movie_name": "The Sweet Ride",
+    "movie_genre": "Drama",
+    "production_year": 1996,
+    "budget": 14000
+  },
+  {
+    "id": 19,
+    "movie_name": "Drop Dead Fred",
+    "movie_genre": "Comedy|Fantasy",
+    "production_year": 2019,
+    "budget": 20000
+  },
+  {
+    "id": 20,
+    "movie_name": "Santa Claus Has Blue Eyes (Le père Noël a les yeux bleus)",
+    "movie_genre": "Drama",
+    "production_year": 1995,
+    "budget": 10000
+  },
+  {
+    "id": 21,
+    "movie_name": "Unknown Known, The",
+    "movie_genre": "Documentary",
+    "production_year": 1997,
+    "budget": 17000
+  },
+  {
+    "id": 22,
+    "movie_name": "Send a Bullet (Manda Bala)",
+    "movie_genre": "Documentary",
+    "production_year": 2013,
+    "budget": 17000
+  },
+  {
+    "id": 23,
+    "movie_name": "Backstage",
+    "movie_genre": "Drama",
+    "production_year": 2002,
+    "budget": 15000
+  },
+  {
+    "id": 24,
+    "movie_name": "Quicksilver",
+    "movie_genre": "Drama",
+    "production_year": 1996,
+    "budget": 12000
+  },
+  {
+    "id": 25,
+    "movie_name": "Zookeeper",
+    "movie_genre": "Comedy",
+    "production_year": 2013,
+    "budget": 19000
+  },
+  {
+    "id": 26,
+    "movie_name": "James Dean Remembered",
+    "movie_genre": "Documentary",
+    "production_year": 1996,
+    "budget": 18000
+  },
+  {
+    "id": 27,
+    "movie_name": "Kolberg",
+    "movie_genre": "Drama|War",
+    "production_year": 2013,
+    "budget": 20000
+  },
+  {
+    "id": 28,
+    "movie_name": "This Sporting Life",
+    "movie_genre": "Drama",
+    "production_year": 2016,
+    "budget": 12000
+  },
+  {
+    "id": 29,
+    "movie_name": "Prison (Fängelse) ",
+    "movie_genre": "Drama",
+    "production_year": 2018,
+    "budget": 9000
+  },
+  {
+    "id": 30,
+    "movie_name": "Magnificent Bodyguards (Fei du juan yun shan)",
+    "movie_genre": "Action",
+    "production_year": 2020,
+    "budget": 15000
+  },
+  {
+    "id": 31,
+    "movie_name": "Fly, The (Légy, A)",
+    "movie_genre": "Animation|Comedy",
+    "production_year": 1990,
+    "budget": 15000
+  },
+  {
+    "id": 32,
+    "movie_name": "In Eagle Shadow Fist (Ding tian li di) (Fist of Anger)",
+    "movie_genre": "Action|Drama|War",
+    "production_year": 1996,
+    "budget": 16000
+  },
+  {
+    "id": 33,
+    "movie_name": "Aspen Extreme",
+    "movie_genre": "Action",
+    "production_year": 1996,
+    "budget": 9000
+  },
+  {
+    "id": 34,
+    "movie_name": "Daylight (Daglicht)",
+    "movie_genre": "Action|Thriller",
+    "production_year": 1994,
+    "budget": 19000
+  },
+  {
+    "id": 35,
+    "movie_name": "Hurricane Streets",
+    "movie_genre": "Drama",
+    "production_year": 2013,
+    "budget": 12000
+  },
+  {
+    "id": 36,
+    "movie_name": "No Way to Treat a Lady",
+    "movie_genre": "Crime|Drama|Thriller",
+    "production_year": 2013,
+    "budget": 16000
+  },
+  {
+    "id": 37,
+    "movie_name": "Fires Were Started",
+    "movie_genre": "Documentary|Drama",
+    "production_year": 1992,
+    "budget": 14000
+  },
+  {
+    "id": 38,
+    "movie_name": "Balto",
+    "movie_genre": "Adventure|Animation|Children",
+    "production_year": 1997,
+    "budget": 14000
+  },
+  {
+    "id": 39,
+    "movie_name": "Man Is Not a Bird (Covek nije tica)",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2010,
+    "budget": 11000
+  },
+  {
+    "id": 40,
+    "movie_name": "Roadside Prophets",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2001,
+    "budget": 16000
+  },
+  {
+    "id": 41,
+    "movie_name": "Yobi, The Five-Tailed Fox",
+    "movie_genre": "Animation|Fantasy",
+    "production_year": 2009,
+    "budget": 17000
+  },
+  {
+    "id": 42,
+    "movie_name": "Wedding Photographer, The (Bröllopsfotografen)",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 1996,
+    "budget": 18000
+  },
+  {
+    "id": 43,
+    "movie_name": "Subway",
+    "movie_genre": "Crime|Drama|Romance|Thriller",
+    "production_year": 1997,
+    "budget": 17000
+  },
+  {
+    "id": 44,
+    "movie_name": "Sgt. Bilko",
+    "movie_genre": "Comedy",
+    "production_year": 1993,
+    "budget": 18000
+  },
+  {
+    "id": 45,
+    "movie_name": "Sex and Zen (Rou pu Tuan zhi tou Qing bao Jian)",
+    "movie_genre": "Action|Adventure|Comedy|Fantasy",
+    "production_year": 2014,
+    "budget": 10000
+  },
+  {
+    "id": 46,
+    "movie_name": "A Fight For",
+    "movie_genre": "(no genres listed)",
+    "production_year": 1996,
+    "budget": 9000
+  },
+  {
+    "id": 47,
+    "movie_name": "From the East (D'Est)",
+    "movie_genre": "Documentary",
+    "production_year": 2001,
+    "budget": 20000
+  },
+  {
+    "id": 48,
+    "movie_name": "40-Year-Old Virgin, The",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2007,
+    "budget": 20000
+  },
+  {
+    "id": 49,
+    "movie_name": "Brother's War",
+    "movie_genre": "War",
+    "production_year": 1998,
+    "budget": 9000
+  },
+  {
+    "id": 50,
+    "movie_name": "Idiots and Angels",
+    "movie_genre": "Animation|Drama|Fantasy",
+    "production_year": 1997,
+    "budget": 17000
+  },
+  {
+    "id": 51,
+    "movie_name": "Barefoot Executive, The",
+    "movie_genre": "Children|Comedy",
+    "production_year": 2004,
+    "budget": 19000
+  },
+  {
+    "id": 52,
+    "movie_name": "Pretty in Pink",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2011,
+    "budget": 12000
+  },
+  {
+    "id": 53,
+    "movie_name": "Beavis and Butt-Head Do America",
+    "movie_genre": "Adventure|Animation|Comedy|Crime",
+    "production_year": 1991,
+    "budget": 16000
+  },
+  {
+    "id": 54,
+    "movie_name": "Witching and Bitching (Brujas de Zugarramurdi, Las)",
+    "movie_genre": "Comedy|Fantasy",
+    "production_year": 2012,
+    "budget": 11000
+  },
+  {
+    "id": 55,
+    "movie_name": "Werewolf of London",
+    "movie_genre": "Drama|Fantasy|Horror|Sci-Fi",
+    "production_year": 2007,
+    "budget": 15000
+  },
+  {
+    "id": 56,
+    "movie_name": "Belle and Sebastien (Belle et Sébastien)",
+    "movie_genre": "Adventure",
+    "production_year": 2001,
+    "budget": 14000
+  },
+  {
+    "id": 57,
+    "movie_name": "Other, The",
+    "movie_genre": "Drama|Horror|Mystery",
+    "production_year": 2001,
+    "budget": 19000
+  },
+  {
+    "id": 58,
+    "movie_name": "Outside Man, The (Un homme est mort)",
+    "movie_genre": "Action|Crime|Drama|Thriller",
+    "production_year": 1997,
+    "budget": 16000
+  },
+  {
+    "id": 59,
+    "movie_name": "Disclosure",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 1993,
+    "budget": 15000
+  },
+  {
+    "id": 60,
+    "movie_name": "Ballistic: Ecks vs. Sever",
+    "movie_genre": "Action|Thriller",
+    "production_year": 1991,
+    "budget": 11000
+  },
+  {
+    "id": 61,
+    "movie_name": "When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki)",
+    "movie_genre": "Drama",
+    "production_year": 1998,
+    "budget": 16000
+  },
+  {
+    "id": 62,
+    "movie_name": "Black Sheep",
+    "movie_genre": "Comedy|Horror",
+    "production_year": 1991,
+    "budget": 11000
+  },
+  {
+    "id": 63,
+    "movie_name": "Buddy",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2012,
+    "budget": 11000
+  },
+  {
+    "id": 64,
+    "movie_name": "Never Talk to Strangers",
+    "movie_genre": "Crime|Drama|Romance|Thriller",
+    "production_year": 1993,
+    "budget": 19000
+  },
+  {
+    "id": 65,
+    "movie_name": "Monday",
+    "movie_genre": "Action|Comedy|Crime|Fantasy|Thriller",
+    "production_year": 1998,
+    "budget": 9000
+  },
+  {
+    "id": 66,
+    "movie_name": "Very Brady Sequel, A",
+    "movie_genre": "Comedy",
+    "production_year": 1997,
+    "budget": 18000
+  },
+  {
+    "id": 67,
+    "movie_name": "Echoes of the Rainbow (Sui yuet san tau)",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2006,
+    "budget": 18000
+  },
+  {
+    "id": 68,
+    "movie_name": "28 Days Later",
+    "movie_genre": "Action|Horror|Sci-Fi",
+    "production_year": 1999,
+    "budget": 16000
+  },
+  {
+    "id": 69,
+    "movie_name": "S21: The Khmer Rouge Death Machine (S-21, la machine de mort Khmère rouge)",
+    "movie_genre": "Documentary|War",
+    "production_year": 2014,
+    "budget": 16000
+  },
+  {
+    "id": 70,
+    "movie_name": "Dr. Goldfoot and the Bikini Machine",
+    "movie_genre": "Comedy",
+    "production_year": 2005,
+    "budget": 15000
+  },
+  {
+    "id": 71,
+    "movie_name": "Young Thugs: Nostalgia (Kishiwada shônen gurentai: Bôkyô)",
+    "movie_genre": "Drama",
+    "production_year": 1998,
+    "budget": 16000
+  },
+  {
+    "id": 72,
+    "movie_name": "Gasoline (Benzina)",
+    "movie_genre": "Crime",
+    "production_year": 1996,
+    "budget": 18000
+  },
+  {
+    "id": 73,
+    "movie_name": "Castle of Cloads, The (Pilvilinna)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2016,
+    "budget": 9000
+  },
+  {
+    "id": 74,
+    "movie_name": "You Only Live Once",
+    "movie_genre": "Crime|Film-Noir",
+    "production_year": 2010,
+    "budget": 14000
+  },
+  {
+    "id": 75,
+    "movie_name": "All I Want for Christmas",
+    "movie_genre": "Children|Comedy",
+    "production_year": 2002,
+    "budget": 17000
+  },
+  {
+    "id": 76,
+    "movie_name": "Day the Earth Stood Still, The",
+    "movie_genre": "Drama|Sci-Fi|Thriller",
+    "production_year": 1994,
+    "budget": 11000
+  },
+  {
+    "id": 77,
+    "movie_name": "The Scapegoat",
+    "movie_genre": "Drama",
+    "production_year": 2012,
+    "budget": 17000
+  },
+  {
+    "id": 78,
+    "movie_name": "Child's Play 2",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2004,
+    "budget": 20000
+  },
+  {
+    "id": 79,
+    "movie_name": "Whole Night, A (Toute une nuit)",
+    "movie_genre": "Drama",
+    "production_year": 1992,
+    "budget": 20000
+  },
+  {
+    "id": 80,
+    "movie_name": "Shoot 'Em Up",
+    "movie_genre": "Action|Comedy|Crime",
+    "production_year": 2001,
+    "budget": 10000
+  },
+  {
+    "id": 81,
+    "movie_name": "Last Polka, The",
+    "movie_genre": "Comedy|Musical",
+    "production_year": 2012,
+    "budget": 14000
+  },
+  {
+    "id": 82,
+    "movie_name": "Ghoul, The",
+    "movie_genre": "Drama|Horror",
+    "production_year": 2006,
+    "budget": 18000
+  },
+  {
+    "id": 83,
+    "movie_name": "Grave Halloween",
+    "movie_genre": "Horror",
+    "production_year": 2005,
+    "budget": 20000
+  },
+  {
+    "id": 84,
+    "movie_name": "Cats & Dogs: The Revenge of Kitty Galore",
+    "movie_genre": "Action|Children|Comedy",
+    "production_year": 2002,
+    "budget": 9000
+  },
+  {
+    "id": 85,
+    "movie_name": "Unborn in the USA: Inside the War on Abortion",
+    "movie_genre": "Documentary",
+    "production_year": 2012,
+    "budget": 20000
+  },
+  {
+    "id": 86,
+    "movie_name": "Racing Dreams",
+    "movie_genre": "Documentary",
+    "production_year": 2002,
+    "budget": 11000
+  },
+  {
+    "id": 87,
+    "movie_name": "Prairie Home Companion, A",
+    "movie_genre": "Comedy|Drama|Musical",
+    "production_year": 2014,
+    "budget": 13000
+  },
+  {
+    "id": 88,
+    "movie_name": "Fresh",
+    "movie_genre": "Crime|Drama|Thriller",
+    "production_year": 1997,
+    "budget": 13000
+  },
+  {
+    "id": 89,
+    "movie_name": "Harum Scarum",
+    "movie_genre": "Comedy|Musical",
+    "production_year": 1991,
+    "budget": 12000
+  },
+  {
+    "id": 90,
+    "movie_name": "Dragon: The Bruce Lee Story",
+    "movie_genre": "Action|Drama",
+    "production_year": 1991,
+    "budget": 10000
+  },
+  {
+    "id": 91,
+    "movie_name": "Shadow Man",
+    "movie_genre": "Action",
+    "production_year": 2008,
+    "budget": 15000
+  },
+  {
+    "id": 92,
+    "movie_name": "Broadway Damage",
+    "movie_genre": "Comedy",
+    "production_year": 2015,
+    "budget": 15000
+  },
+  {
+    "id": 93,
+    "movie_name": "Relative Strangers",
+    "movie_genre": "Comedy",
+    "production_year": 1992,
+    "budget": 9000
+  },
+  {
+    "id": 94,
+    "movie_name": "Enchanted Cottage, The",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2012,
+    "budget": 13000
+  },
+  {
+    "id": 95,
+    "movie_name": "That's Entertainment, Part II",
+    "movie_genre": "Documentary",
+    "production_year": 2015,
+    "budget": 9000
+  },
+  {
+    "id": 96,
+    "movie_name": "Jacob the Liar (Jakob, der Lügner)",
+    "movie_genre": "Drama",
+    "production_year": 1990,
+    "budget": 15000
+  },
+  {
+    "id": 97,
+    "movie_name": "Omen, The",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 1990,
+    "budget": 14000
+  },
+  {
+    "id": 98,
+    "movie_name": "Twilight of the Ice Nymphs",
+    "movie_genre": "Fantasy",
+    "production_year": 2017,
+    "budget": 20000
+  },
+  {
+    "id": 99,
+    "movie_name": "Pine Flat",
+    "movie_genre": "Drama",
+    "production_year": 2017,
+    "budget": 11000
+  },
+  {
+    "id": 100,
+    "movie_name": "First Squad: The Moment of Truth",
+    "movie_genre": "Action|Animation|Drama|War",
+    "production_year": 1991,
+    "budget": 10000
+  },
+  {
+    "id": 101,
+    "movie_name": "Kiki",
+    "movie_genre": "Comedy",
+    "production_year": 1998,
+    "budget": 9000
+  },
+  {
+    "id": 102,
+    "movie_name": "Moonlight Serenade",
+    "movie_genre": "Musical|Romance",
+    "production_year": 2005,
+    "budget": 18000
+  },
+  {
+    "id": 103,
+    "movie_name": "Mummy Returns, The",
+    "movie_genre": "Action|Adventure|Comedy|Thriller",
+    "production_year": 2016,
+    "budget": 15000
+  },
+  {
+    "id": 104,
+    "movie_name": "War of the Buttons",
+    "movie_genre": "Adventure|Children|Drama",
+    "production_year": 2012,
+    "budget": 19000
+  },
+  {
+    "id": 105,
+    "movie_name": "I Live in Fear (Ikimono no kiroku)",
+    "movie_genre": "Drama",
+    "production_year": 2019,
+    "budget": 13000
+  },
+  {
+    "id": 106,
+    "movie_name": "My Family",
+    "movie_genre": "Drama",
+    "production_year": 1994,
+    "budget": 12000
+  },
+  {
+    "id": 107,
+    "movie_name": "Charlie Chan's Chance",
+    "movie_genre": "Mystery",
+    "production_year": 2006,
+    "budget": 20000
+  },
+  {
+    "id": 108,
+    "movie_name": "Study in Choreography for Camera, A",
+    "movie_genre": "(no genres listed)",
+    "production_year": 2017,
+    "budget": 13000
+  },
+  {
+    "id": 109,
+    "movie_name": "Guest of Cindy Sherman",
+    "movie_genre": "Documentary",
+    "production_year": 2005,
+    "budget": 14000
+  },
+  {
+    "id": 110,
+    "movie_name": "Election Day",
+    "movie_genre": "Documentary",
+    "production_year": 2003,
+    "budget": 16000
+  },
+  {
+    "id": 111,
+    "movie_name": "Sushi Girl",
+    "movie_genre": "Crime|Mystery|Thriller",
+    "production_year": 2017,
+    "budget": 20000
+  },
+  {
+    "id": 112,
+    "movie_name": "Cheap Detective, The",
+    "movie_genre": "Comedy",
+    "production_year": 1991,
+    "budget": 17000
+  },
+  {
+    "id": 113,
+    "movie_name": "Forget Me Not",
+    "movie_genre": "Horror|Romance|Thriller",
+    "production_year": 1996,
+    "budget": 19000
+  },
+  {
+    "id": 114,
+    "movie_name": "Something Real and Good",
+    "movie_genre": "Drama",
+    "production_year": 2011,
+    "budget": 9000
+  },
+  {
+    "id": 115,
+    "movie_name": "Ju-on: The Grudge 2",
+    "movie_genre": "Horror",
+    "production_year": 2000,
+    "budget": 12000
+  },
+  {
+    "id": 116,
+    "movie_name": "Until the End of the World (Bis ans Ende der Welt)",
+    "movie_genre": "Adventure|Drama|Sci-Fi",
+    "production_year": 2004,
+    "budget": 15000
+  },
+  {
+    "id": 117,
+    "movie_name": "Oculus",
+    "movie_genre": "Horror",
+    "production_year": 1990,
+    "budget": 13000
+  },
+  {
+    "id": 118,
+    "movie_name": "Poolhall Junkies",
+    "movie_genre": "Comedy|Drama|Thriller",
+    "production_year": 2016,
+    "budget": 16000
+  },
+  {
+    "id": 119,
+    "movie_name": "State Property",
+    "movie_genre": "Action|Crime|Drama",
+    "production_year": 2010,
+    "budget": 10000
+  },
+  {
+    "id": 120,
+    "movie_name": "Haunted, The",
+    "movie_genre": "Horror",
+    "production_year": 2014,
+    "budget": 20000
+  },
+  {
+    "id": 121,
+    "movie_name": "Canterville Ghost, The",
+    "movie_genre": "Comedy|Fantasy",
+    "production_year": 2005,
+    "budget": 10000
+  },
+  {
+    "id": 122,
+    "movie_name": "Third World Cop",
+    "movie_genre": "Action",
+    "production_year": 1992,
+    "budget": 17000
+  },
+  {
+    "id": 123,
+    "movie_name": "Muriel's Wedding",
+    "movie_genre": "Comedy",
+    "production_year": 2002,
+    "budget": 13000
+  },
+  {
+    "id": 124,
+    "movie_name": "The Town that Dreaded Sundown",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2018,
+    "budget": 15000
+  },
+  {
+    "id": 125,
+    "movie_name": "Small Town Gay Bar",
+    "movie_genre": "Documentary",
+    "production_year": 1998,
+    "budget": 12000
+  },
+  {
+    "id": 126,
+    "movie_name": "Desert Winds",
+    "movie_genre": "Drama|Fantasy|Romance",
+    "production_year": 2004,
+    "budget": 13000
+  },
+  {
+    "id": 127,
+    "movie_name": "Pale Rider",
+    "movie_genre": "Western",
+    "production_year": 1990,
+    "budget": 10000
+  },
+  {
+    "id": 128,
+    "movie_name": "Boston's Finest",
+    "movie_genre": "Crime|Drama",
+    "production_year": 2005,
+    "budget": 15000
+  },
+  {
+    "id": 129,
+    "movie_name": "Easier with Practice",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2020,
+    "budget": 15000
+  },
+  {
+    "id": 130,
+    "movie_name": "Shaolin Soccer (Siu lam juk kau)",
+    "movie_genre": "Action|Comedy",
+    "production_year": 2004,
+    "budget": 18000
+  },
+  {
+    "id": 131,
+    "movie_name": "6ixtynin9 (Ruang Talok 69)",
+    "movie_genre": "Action|Comedy|Thriller",
+    "production_year": 1992,
+    "budget": 12000
+  },
+  {
+    "id": 132,
+    "movie_name": "Two Moon Junction",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1996,
+    "budget": 9000
+  },
+  {
+    "id": 133,
+    "movie_name": "I Was A Communist for the FBI",
+    "movie_genre": "Drama|Film-Noir|Thriller",
+    "production_year": 2012,
+    "budget": 10000
+  },
+  {
+    "id": 134,
+    "movie_name": "Kenny",
+    "movie_genre": "Comedy",
+    "production_year": 1991,
+    "budget": 14000
+  },
+  {
+    "id": 135,
+    "movie_name": "I Know What I Saw",
+    "movie_genre": "Documentary",
+    "production_year": 2010,
+    "budget": 14000
+  },
+  {
+    "id": 136,
+    "movie_name": "His New Profession",
+    "movie_genre": "Comedy",
+    "production_year": 2018,
+    "budget": 19000
+  },
+  {
+    "id": 137,
+    "movie_name": "Marc Pease Experience, The",
+    "movie_genre": "Comedy|Drama|Musical",
+    "production_year": 2013,
+    "budget": 16000
+  },
+  {
+    "id": 138,
+    "movie_name": "Beloved",
+    "movie_genre": "Drama",
+    "production_year": 2011,
+    "budget": 10000
+  },
+  {
+    "id": 139,
+    "movie_name": "Crush",
+    "movie_genre": "Drama",
+    "production_year": 2007,
+    "budget": 9000
+  },
+  {
+    "id": 140,
+    "movie_name": "Jumper",
+    "movie_genre": "Action|Adventure|Drama|Sci-Fi|Thriller",
+    "production_year": 1998,
+    "budget": 14000
+  },
+  {
+    "id": 141,
+    "movie_name": "Art of Travel, The",
+    "movie_genre": "Adventure|Drama|Romance",
+    "production_year": 1991,
+    "budget": 13000
+  },
+  {
+    "id": 142,
+    "movie_name": "Banana Joe",
+    "movie_genre": "Comedy",
+    "production_year": 1998,
+    "budget": 10000
+  },
+  {
+    "id": 143,
+    "movie_name": "Where the Truth Lies",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2001,
+    "budget": 17000
+  },
+  {
+    "id": 144,
+    "movie_name": "Factory, The",
+    "movie_genre": "Mystery|Thriller",
+    "production_year": 1996,
+    "budget": 18000
+  },
+  {
+    "id": 145,
+    "movie_name": "Scandal Sheet",
+    "movie_genre": "Crime|Drama|Film-Noir|Romance|Thriller",
+    "production_year": 2004,
+    "budget": 15000
+  },
+  {
+    "id": 146,
+    "movie_name": "Fist of the North Star",
+    "movie_genre": "Action|Thriller",
+    "production_year": 2000,
+    "budget": 14000
+  },
+  {
+    "id": 147,
+    "movie_name": "Rango",
+    "movie_genre": "Action|Adventure|Animation|Children|Comedy|Western",
+    "production_year": 2019,
+    "budget": 20000
+  },
+  {
+    "id": 148,
+    "movie_name": "Mary Stevens M.D.",
+    "movie_genre": "Drama",
+    "production_year": 2002,
+    "budget": 10000
+  },
+  {
+    "id": 149,
+    "movie_name": "Sleeping Beauty",
+    "movie_genre": "Adventure|Fantasy",
+    "production_year": 2004,
+    "budget": 18000
+  },
+  {
+    "id": 150,
+    "movie_name": "Murderball",
+    "movie_genre": "Documentary",
+    "production_year": 2007,
+    "budget": 20000
+  },
+  {
+    "id": 151,
+    "movie_name": "Lisbon Story",
+    "movie_genre": "Drama",
+    "production_year": 1990,
+    "budget": 14000
+  },
+  {
+    "id": 152,
+    "movie_name": "My Brother's Wife (Mujer de mi hermano, La)",
+    "movie_genre": "Drama",
+    "production_year": 2005,
+    "budget": 12000
+  },
+  {
+    "id": 153,
+    "movie_name": "Turtle's Tale 2: Sammy's Escape from Paradise, A (Sammy's avonturen 2) (Sammy's Adventures 2)",
+    "movie_genre": "Adventure|Animation|Children",
+    "production_year": 1997,
+    "budget": 13000
+  },
+  {
+    "id": 154,
+    "movie_name": "Echoes from the Dead (Skumtimmen)",
+    "movie_genre": "Drama|Mystery",
+    "production_year": 2012,
+    "budget": 13000
+  },
+  {
+    "id": 155,
+    "movie_name": "U Turn",
+    "movie_genre": "Crime|Drama|Mystery",
+    "production_year": 1990,
+    "budget": 14000
+  },
+  {
+    "id": 156,
+    "movie_name": "Cool It",
+    "movie_genre": "Documentary",
+    "production_year": 1991,
+    "budget": 11000
+  },
+  {
+    "id": 157,
+    "movie_name": "Dead in the Water",
+    "movie_genre": "Crime|Thriller",
+    "production_year": 2005,
+    "budget": 11000
+  },
+  {
+    "id": 158,
+    "movie_name": "Kazaam",
+    "movie_genre": "Children|Comedy|Fantasy",
+    "production_year": 1990,
+    "budget": 20000
+  },
+  {
+    "id": 159,
+    "movie_name": "The Four Feathers",
+    "movie_genre": "Adventure|Drama|Romance|War",
+    "production_year": 2002,
+    "budget": 20000
+  },
+  {
+    "id": 160,
+    "movie_name": "Marine, The",
+    "movie_genre": "Action|Drama|Thriller",
+    "production_year": 2018,
+    "budget": 16000
+  },
+  {
+    "id": 161,
+    "movie_name": "Asylum",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2008,
+    "budget": 19000
+  },
+  {
+    "id": 162,
+    "movie_name": "Street Fight",
+    "movie_genre": "Documentary",
+    "production_year": 1992,
+    "budget": 9000
+  },
+  {
+    "id": 163,
+    "movie_name": "Her",
+    "movie_genre": "Drama|Romance|Sci-Fi",
+    "production_year": 2008,
+    "budget": 12000
+  },
+  {
+    "id": 164,
+    "movie_name": "Entre nos (Between Us)",
+    "movie_genre": "Drama",
+    "production_year": 2007,
+    "budget": 12000
+  },
+  {
+    "id": 165,
+    "movie_name": "Jeanne and the Perfect Guy (Jeanne et le garçon formidable)",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 1996,
+    "budget": 11000
+  },
+  {
+    "id": 166,
+    "movie_name": "Blame (6 Films to Keep You Awake) (Películas para no dormir: La culpa)",
+    "movie_genre": "Drama|Horror|Mystery",
+    "production_year": 2012,
+    "budget": 16000
+  },
+  {
+    "id": 167,
+    "movie_name": "Elephant in the Living Room, The",
+    "movie_genre": "Documentary",
+    "production_year": 1990,
+    "budget": 18000
+  },
+  {
+    "id": 168,
+    "movie_name": "Valerie and Her Week of Wonders (Valerie a týden divu)",
+    "movie_genre": "Adventure|Drama|Fantasy",
+    "production_year": 2002,
+    "budget": 17000
+  },
+  {
+    "id": 169,
+    "movie_name": "Scream",
+    "movie_genre": "Comedy|Horror|Mystery|Thriller",
+    "production_year": 2008,
+    "budget": 19000
+  },
+  {
+    "id": 170,
+    "movie_name": "Making 'The New World'",
+    "movie_genre": "Documentary",
+    "production_year": 2018,
+    "budget": 18000
+  },
+  {
+    "id": 171,
+    "movie_name": "Amuck!",
+    "movie_genre": "Drama|Horror|Mystery",
+    "production_year": 2006,
+    "budget": 19000
+  },
+  {
+    "id": 172,
+    "movie_name": "Gregory Go Boom",
+    "movie_genre": "Comedy",
+    "production_year": 2000,
+    "budget": 13000
+  },
+  {
+    "id": 173,
+    "movie_name": "Hellhounds on My Trail",
+    "movie_genre": "Documentary",
+    "production_year": 2003,
+    "budget": 16000
+  },
+  {
+    "id": 174,
+    "movie_name": "Chained",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 1993,
+    "budget": 14000
+  },
+  {
+    "id": 175,
+    "movie_name": "Superstar",
+    "movie_genre": "Comedy",
+    "production_year": 2004,
+    "budget": 16000
+  },
+  {
+    "id": 176,
+    "movie_name": "Semi-Tough",
+    "movie_genre": "Comedy",
+    "production_year": 2001,
+    "budget": 11000
+  },
+  {
+    "id": 177,
+    "movie_name": "Reivers, The",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 1994,
+    "budget": 18000
+  },
+  {
+    "id": 178,
+    "movie_name": "Band of Outsiders (Bande à part)",
+    "movie_genre": "Comedy|Crime|Drama|Romance",
+    "production_year": 2020,
+    "budget": 9000
+  },
+  {
+    "id": 179,
+    "movie_name": "Everybody's Acting",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2016,
+    "budget": 15000
+  },
+  {
+    "id": 180,
+    "movie_name": "Terminator 2: Judgment Day",
+    "movie_genre": "Action|Sci-Fi",
+    "production_year": 2020,
+    "budget": 17000
+  },
+  {
+    "id": 181,
+    "movie_name": "Kid, The",
+    "movie_genre": "Comedy|Fantasy",
+    "production_year": 2015,
+    "budget": 10000
+  },
+  {
+    "id": 182,
+    "movie_name": "Sounder",
+    "movie_genre": "Drama",
+    "production_year": 1991,
+    "budget": 11000
+  },
+  {
+    "id": 183,
+    "movie_name": "Matrix, The",
+    "movie_genre": "Action|Sci-Fi|Thriller",
+    "production_year": 1996,
+    "budget": 17000
+  },
+  {
+    "id": 184,
+    "movie_name": "Killer Inside Me, The",
+    "movie_genre": "Crime|Drama|Thriller|Western",
+    "production_year": 2003,
+    "budget": 12000
+  },
+  {
+    "id": 185,
+    "movie_name": "Baader Meinhof Komplex, Der",
+    "movie_genre": "Action|Crime|Drama|Thriller",
+    "production_year": 2006,
+    "budget": 17000
+  },
+  {
+    "id": 186,
+    "movie_name": "Onibi: The Fire Within",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2016,
+    "budget": 9000
+  },
+  {
+    "id": 187,
+    "movie_name": "Seizure",
+    "movie_genre": "Horror",
+    "production_year": 1998,
+    "budget": 14000
+  },
+  {
+    "id": 188,
+    "movie_name": "Holiday Engagement",
+    "movie_genre": "Comedy",
+    "production_year": 2016,
+    "budget": 18000
+  },
+  {
+    "id": 189,
+    "movie_name": "Sarraounia",
+    "movie_genre": "Drama|War",
+    "production_year": 2018,
+    "budget": 12000
+  },
+  {
+    "id": 190,
+    "movie_name": "Lady Jane",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1997,
+    "budget": 12000
+  },
+  {
+    "id": 191,
+    "movie_name": "Vääpeli Körmy - Taisteluni",
+    "movie_genre": "Comedy",
+    "production_year": 2014,
+    "budget": 12000
+  },
+  {
+    "id": 192,
+    "movie_name": "Hebrew Hammer, The",
+    "movie_genre": "Comedy",
+    "production_year": 1991,
+    "budget": 15000
+  },
+  {
+    "id": 193,
+    "movie_name": "Deadly Outlaw: Rekka (a.k.a. Violent Fire) (Jitsuroku Andô Noboru kyôdô-den: Rekka)",
+    "movie_genre": "Crime|Drama|Thriller",
+    "production_year": 1991,
+    "budget": 16000
+  },
+  {
+    "id": 194,
+    "movie_name": "Statement, The",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2008,
+    "budget": 18000
+  },
+  {
+    "id": 195,
+    "movie_name": "Our Town",
+    "movie_genre": "Drama",
+    "production_year": 2018,
+    "budget": 10000
+  },
+  {
+    "id": 196,
+    "movie_name": "Original Gangstas",
+    "movie_genre": "Crime",
+    "production_year": 1991,
+    "budget": 15000
+  },
+  {
+    "id": 197,
+    "movie_name": "No Direction Home: Bob Dylan",
+    "movie_genre": "Documentary",
+    "production_year": 2006,
+    "budget": 20000
+  },
+  {
+    "id": 198,
+    "movie_name": "A Via Láctea",
+    "movie_genre": "Drama",
+    "production_year": 2010,
+    "budget": 10000
+  },
+  {
+    "id": 199,
+    "movie_name": "Imagine That",
+    "movie_genre": "Comedy|Drama|Fantasy",
+    "production_year": 2007,
+    "budget": 11000
+  },
+  {
+    "id": 200,
+    "movie_name": "Picture Perfect",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 1998,
+    "budget": 13000
+  },
+  {
+    "id": 201,
+    "movie_name": "Household Saints",
+    "movie_genre": "Drama",
+    "production_year": 2000,
+    "budget": 11000
+  },
+  {
+    "id": 202,
+    "movie_name": "Grateful Dead Movie, The",
+    "movie_genre": "Documentary|Musical",
+    "production_year": 2017,
+    "budget": 16000
+  },
+  {
+    "id": 203,
+    "movie_name": "Win Win",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2002,
+    "budget": 20000
+  },
+  {
+    "id": 204,
+    "movie_name": "36 Crazy Fists (San shi liu mi xing quan)",
+    "movie_genre": "Action|Comedy|Drama",
+    "production_year": 2002,
+    "budget": 17000
+  },
+  {
+    "id": 205,
+    "movie_name": "Devil's Trap, The (Dáblova past)",
+    "movie_genre": "Drama",
+    "production_year": 2011,
+    "budget": 19000
+  },
+  {
+    "id": 206,
+    "movie_name": "Death in Venice (Morte a Venezia)",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1998,
+    "budget": 15000
+  },
+  {
+    "id": 207,
+    "movie_name": "Big Girls Don't Cry... They Get Even (Stepkids)",
+    "movie_genre": "Comedy",
+    "production_year": 1992,
+    "budget": 17000
+  },
+  {
+    "id": 208,
+    "movie_name": "Out to Sea",
+    "movie_genre": "Comedy",
+    "production_year": 2005,
+    "budget": 19000
+  },
+  {
+    "id": 209,
+    "movie_name": "Lost in Translation",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2012,
+    "budget": 20000
+  },
+  {
+    "id": 210,
+    "movie_name": "Art of War III: Retribution, The",
+    "movie_genre": "Action|Thriller",
+    "production_year": 2016,
+    "budget": 19000
+  },
+  {
+    "id": 211,
+    "movie_name": "D.A.R.Y.L.",
+    "movie_genre": "Adventure|Children|Sci-Fi",
+    "production_year": 2001,
+    "budget": 11000
+  },
+  {
+    "id": 212,
+    "movie_name": "Camp X-Ray",
+    "movie_genre": "Drama",
+    "production_year": 2014,
+    "budget": 14000
+  },
+  {
+    "id": 213,
+    "movie_name": "To Live (Huozhe)",
+    "movie_genre": "Drama",
+    "production_year": 2017,
+    "budget": 16000
+  },
+  {
+    "id": 214,
+    "movie_name": "I Could Never Be Your Woman",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2007,
+    "budget": 12000
+  },
+  {
+    "id": 215,
+    "movie_name": "Private Function, A",
+    "movie_genre": "Comedy",
+    "production_year": 1995,
+    "budget": 10000
+  },
+  {
+    "id": 216,
+    "movie_name": "Era of Vampires, The",
+    "movie_genre": "Action|Horror",
+    "production_year": 1991,
+    "budget": 10000
+  },
+  {
+    "id": 217,
+    "movie_name": "Cherry Crush",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2017,
+    "budget": 9000
+  },
+  {
+    "id": 218,
+    "movie_name": "It's All About Love",
+    "movie_genre": "Drama|Romance|Sci-Fi|Thriller",
+    "production_year": 2015,
+    "budget": 13000
+  },
+  {
+    "id": 219,
+    "movie_name": "Dreams of  a Life",
+    "movie_genre": "Documentary",
+    "production_year": 1990,
+    "budget": 11000
+  },
+  {
+    "id": 220,
+    "movie_name": "Holy Innocents, The (Santos inocentes, Los)",
+    "movie_genre": "Drama",
+    "production_year": 2007,
+    "budget": 12000
+  },
+  {
+    "id": 221,
+    "movie_name": "Empire of Silver (Bai yin di guo)",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2000,
+    "budget": 15000
+  },
+  {
+    "id": 222,
+    "movie_name": "Loose Change 9/11: An American Coup",
+    "movie_genre": "Documentary",
+    "production_year": 2017,
+    "budget": 14000
+  },
+  {
+    "id": 223,
+    "movie_name": "Crush, The (La cotta)",
+    "movie_genre": "Romance",
+    "production_year": 2020,
+    "budget": 12000
+  },
+  {
+    "id": 224,
+    "movie_name": "Secret Garden, The",
+    "movie_genre": "Children|Drama",
+    "production_year": 1996,
+    "budget": 16000
+  },
+  {
+    "id": 225,
+    "movie_name": "Visitor, The (Muukalainen)",
+    "movie_genre": "Drama|Mystery",
+    "production_year": 1992,
+    "budget": 13000
+  },
+  {
+    "id": 226,
+    "movie_name": "Ana and the Others (Ana y los otros)",
+    "movie_genre": "Drama",
+    "production_year": 1994,
+    "budget": 16000
+  },
+  {
+    "id": 227,
+    "movie_name": "Visitor, The",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2001,
+    "budget": 13000
+  },
+  {
+    "id": 228,
+    "movie_name": "Devil at 4 O'Clock, The",
+    "movie_genre": "Drama",
+    "production_year": 2006,
+    "budget": 12000
+  },
+  {
+    "id": 229,
+    "movie_name": "Millionaire for Christy, A (Golden Goose) (No Room for the Groom)",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2004,
+    "budget": 13000
+  },
+  {
+    "id": 230,
+    "movie_name": "Trailer Park of Terror",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2012,
+    "budget": 16000
+  },
+  {
+    "id": 231,
+    "movie_name": "Epic Movie",
+    "movie_genre": "Adventure|Comedy",
+    "production_year": 1997,
+    "budget": 16000
+  },
+  {
+    "id": 232,
+    "movie_name": "Yesterday Girl (Abschied von gestern - Anita G.)",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2007,
+    "budget": 19000
+  },
+  {
+    "id": 233,
+    "movie_name": "Prize of Peril, The (Prix du danger, Le)",
+    "movie_genre": "Action|Drama",
+    "production_year": 2012,
+    "budget": 16000
+  },
+  {
+    "id": 234,
+    "movie_name": "Not Your Typical Bigfoot Movie",
+    "movie_genre": "Documentary",
+    "production_year": 2011,
+    "budget": 16000
+  },
+  {
+    "id": 235,
+    "movie_name": "Birth of the Living Dead",
+    "movie_genre": "Documentary",
+    "production_year": 2007,
+    "budget": 12000
+  },
+  {
+    "id": 236,
+    "movie_name": "Jimmy Neutron: Boy Genius",
+    "movie_genre": "Adventure|Animation|Children|Comedy",
+    "production_year": 1996,
+    "budget": 11000
+  },
+  {
+    "id": 237,
+    "movie_name": "Water-mirror of Granada",
+    "movie_genre": "Documentary",
+    "production_year": 2016,
+    "budget": 13000
+  },
+  {
+    "id": 238,
+    "movie_name": "8 Days to Premiere (8 päivää ensi-iltaan)",
+    "movie_genre": "Comedy|Fantasy|Romance",
+    "production_year": 2011,
+    "budget": 13000
+  },
+  {
+    "id": 239,
+    "movie_name": "Bill & Ted's Excellent Adventure",
+    "movie_genre": "Adventure|Comedy|Sci-Fi",
+    "production_year": 2003,
+    "budget": 10000
+  },
+  {
+    "id": 240,
+    "movie_name": "One to Another (Chacun sa nuit)",
+    "movie_genre": "Drama",
+    "production_year": 2010,
+    "budget": 9000
+  },
+  {
+    "id": 241,
+    "movie_name": "Clink of Ice, The (a.k.a.: Sound of Ice Cubes, The) (Le bruit des glaçons)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2009,
+    "budget": 10000
+  },
+  {
+    "id": 242,
+    "movie_name": "Why Do Fools Fall In Love?",
+    "movie_genre": "Drama",
+    "production_year": 2017,
+    "budget": 20000
+  },
+  {
+    "id": 243,
+    "movie_name": "Dying of Laughter (Muertos de Risa)",
+    "movie_genre": "Comedy",
+    "production_year": 2001,
+    "budget": 16000
+  },
+  {
+    "id": 244,
+    "movie_name": "Studentfesten",
+    "movie_genre": "Comedy",
+    "production_year": 2005,
+    "budget": 14000
+  },
+  {
+    "id": 245,
+    "movie_name": "American Friends",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1991,
+    "budget": 18000
+  },
+  {
+    "id": 246,
+    "movie_name": "Monkey's Paw, The",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2018,
+    "budget": 9000
+  },
+  {
+    "id": 247,
+    "movie_name": "Lady Jane",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2003,
+    "budget": 10000
+  },
+  {
+    "id": 248,
+    "movie_name": "Pitch Black",
+    "movie_genre": "Horror|Sci-Fi|Thriller",
+    "production_year": 2000,
+    "budget": 20000
+  },
+  {
+    "id": 249,
+    "movie_name": "McLibel",
+    "movie_genre": "Documentary",
+    "production_year": 2014,
+    "budget": 17000
+  },
+  {
+    "id": 250,
+    "movie_name": "Devil Girl From Mars",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2000,
+    "budget": 16000
+  },
+  {
+    "id": 251,
+    "movie_name": "Samsara",
+    "movie_genre": "Adventure|Drama|Romance",
+    "production_year": 2012,
+    "budget": 11000
+  },
+  {
+    "id": 252,
+    "movie_name": "General Died at Dawn, The",
+    "movie_genre": "Adventure|Crime|Thriller",
+    "production_year": 2006,
+    "budget": 20000
+  },
+  {
+    "id": 253,
+    "movie_name": "Crackerjack",
+    "movie_genre": "Action",
+    "production_year": 2013,
+    "budget": 18000
+  },
+  {
+    "id": 254,
+    "movie_name": "North and South, Book II",
+    "movie_genre": "Drama|Romance|War",
+    "production_year": 2000,
+    "budget": 13000
+  },
+  {
+    "id": 255,
+    "movie_name": "When Eight Bells Toll",
+    "movie_genre": "Action|Adventure|Crime|Mystery",
+    "production_year": 1995,
+    "budget": 11000
+  },
+  {
+    "id": 256,
+    "movie_name": "Danika",
+    "movie_genre": "Drama|Horror|Thriller",
+    "production_year": 2008,
+    "budget": 18000
+  },
+  {
+    "id": 257,
+    "movie_name": "Aladin",
+    "movie_genre": "Comedy|Fantasy|Musical|Romance",
+    "production_year": 2006,
+    "budget": 11000
+  },
+  {
+    "id": 258,
+    "movie_name": "Eat",
+    "movie_genre": "Documentary",
+    "production_year": 2013,
+    "budget": 16000
+  },
+  {
+    "id": 259,
+    "movie_name": "Waxworks (Das Wachsfigurenkabinett)",
+    "movie_genre": "Comedy|Drama|Romance|Thriller",
+    "production_year": 1993,
+    "budget": 17000
+  },
+  {
+    "id": 260,
+    "movie_name": "Comic Book Confidential",
+    "movie_genre": "Documentary",
+    "production_year": 2013,
+    "budget": 10000
+  },
+  {
+    "id": 261,
+    "movie_name": "Wilde",
+    "movie_genre": "Drama",
+    "production_year": 2004,
+    "budget": 20000
+  },
+  {
+    "id": 262,
+    "movie_name": "Invisible Ray, The",
+    "movie_genre": "Horror|Sci-Fi",
+    "production_year": 2003,
+    "budget": 9000
+  },
+  {
+    "id": 263,
+    "movie_name": "Thief of Paris, The (Le voleur)",
+    "movie_genre": "Comedy|Crime|Drama",
+    "production_year": 2010,
+    "budget": 16000
+  },
+  {
+    "id": 264,
+    "movie_name": "Not of This Earth",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2002,
+    "budget": 15000
+  },
+  {
+    "id": 265,
+    "movie_name": "Here Comes the Boom",
+    "movie_genre": "Action|Comedy",
+    "production_year": 1997,
+    "budget": 17000
+  },
+  {
+    "id": 266,
+    "movie_name": "Better Living Through Circuitry",
+    "movie_genre": "Documentary",
+    "production_year": 1994,
+    "budget": 16000
+  },
+  {
+    "id": 267,
+    "movie_name": "Never Say... Never! (Il ne faut jurer... de rien!)",
+    "movie_genre": "Comedy",
+    "production_year": 2003,
+    "budget": 16000
+  },
+  {
+    "id": 268,
+    "movie_name": "Mine Games",
+    "movie_genre": "Mystery|Thriller",
+    "production_year": 2017,
+    "budget": 11000
+  },
+  {
+    "id": 269,
+    "movie_name": "Live Nude Girls Unite!",
+    "movie_genre": "Documentary",
+    "production_year": 2003,
+    "budget": 11000
+  },
+  {
+    "id": 270,
+    "movie_name": "Step Up Revolution",
+    "movie_genre": "Musical",
+    "production_year": 2016,
+    "budget": 16000
+  },
+  {
+    "id": 271,
+    "movie_name": "Woman on the Beach (Haebyeonui yeoin)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2002,
+    "budget": 13000
+  },
+  {
+    "id": 272,
+    "movie_name": "Christmas Memory, A (Truman Capote's 'A Christmas Memory')",
+    "movie_genre": "Children|Drama",
+    "production_year": 2007,
+    "budget": 11000
+  },
+  {
+    "id": 273,
+    "movie_name": "Monsieur Vincent",
+    "movie_genre": "Drama",
+    "production_year": 2013,
+    "budget": 20000
+  },
+  {
+    "id": 274,
+    "movie_name": "The Crown Jewels",
+    "movie_genre": "Drama|Fantasy|Romance",
+    "production_year": 2019,
+    "budget": 17000
+  },
+  {
+    "id": 275,
+    "movie_name": "The Guardians",
+    "movie_genre": "Action|Thriller",
+    "production_year": 2019,
+    "budget": 18000
+  },
+  {
+    "id": 276,
+    "movie_name": "Reef, The",
+    "movie_genre": "Drama|Horror|Thriller",
+    "production_year": 1992,
+    "budget": 10000
+  },
+  {
+    "id": 277,
+    "movie_name": "Captain from Castile",
+    "movie_genre": "Adventure|Drama",
+    "production_year": 2009,
+    "budget": 14000
+  },
+  {
+    "id": 278,
+    "movie_name": "Abbott and Costello Go to Mars",
+    "movie_genre": "Comedy|Sci-Fi",
+    "production_year": 2018,
+    "budget": 11000
+  },
+  {
+    "id": 279,
+    "movie_name": "Ruthless People",
+    "movie_genre": "Comedy",
+    "production_year": 2003,
+    "budget": 10000
+  },
+  {
+    "id": 280,
+    "movie_name": "Runaway Brain ",
+    "movie_genre": "Animation|Comedy|Sci-Fi",
+    "production_year": 2014,
+    "budget": 16000
+  },
+  {
+    "id": 281,
+    "movie_name": "Trapped in Paradise",
+    "movie_genre": "Comedy|Crime",
+    "production_year": 1990,
+    "budget": 16000
+  },
+  {
+    "id": 282,
+    "movie_name": "Body of Evidence",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 1995,
+    "budget": 9000
+  },
+  {
+    "id": 283,
+    "movie_name": "Being Cyrus",
+    "movie_genre": "Comedy|Drama|Thriller",
+    "production_year": 2015,
+    "budget": 18000
+  },
+  {
+    "id": 284,
+    "movie_name": "Paulette",
+    "movie_genre": "Comedy|Crime",
+    "production_year": 2020,
+    "budget": 20000
+  },
+  {
+    "id": 285,
+    "movie_name": "Battle of Britain, The (Why We Fight, 4)",
+    "movie_genre": "Documentary|War",
+    "production_year": 2016,
+    "budget": 11000
+  },
+  {
+    "id": 286,
+    "movie_name": "American Kickboxer (American Kickboxer 1)",
+    "movie_genre": "Action",
+    "production_year": 2018,
+    "budget": 9000
+  },
+  {
+    "id": 287,
+    "movie_name": "Scarlet Letter, The",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1990,
+    "budget": 12000
+  },
+  {
+    "id": 288,
+    "movie_name": "100 Rifles",
+    "movie_genre": "Adventure|War|Western",
+    "production_year": 2011,
+    "budget": 13000
+  },
+  {
+    "id": 289,
+    "movie_name": "Sexy Beast",
+    "movie_genre": "Comedy|Crime|Drama",
+    "production_year": 2020,
+    "budget": 9000
+  },
+  {
+    "id": 290,
+    "movie_name": "Wild",
+    "movie_genre": "Drama",
+    "production_year": 1997,
+    "budget": 16000
+  },
+  {
+    "id": 291,
+    "movie_name": "Sneakers",
+    "movie_genre": "Action|Comedy|Crime|Drama|Sci-Fi",
+    "production_year": 2010,
+    "budget": 9000
+  },
+  {
+    "id": 292,
+    "movie_name": "Wagon Master",
+    "movie_genre": "Western",
+    "production_year": 2005,
+    "budget": 20000
+  },
+  {
+    "id": 293,
+    "movie_name": "House I Live In, The",
+    "movie_genre": "Documentary",
+    "production_year": 2008,
+    "budget": 19000
+  },
+  {
+    "id": 294,
+    "movie_name": "Forever Yours (Ikuisesti sinun)",
+    "movie_genre": "Documentary",
+    "production_year": 1994,
+    "budget": 9000
+  },
+  {
+    "id": 295,
+    "movie_name": "Me Two (Personne aux deux personnes, La)",
+    "movie_genre": "Comedy|Fantasy",
+    "production_year": 2009,
+    "budget": 20000
+  },
+  {
+    "id": 296,
+    "movie_name": "Demonic Toys",
+    "movie_genre": "Comedy|Fantasy|Horror",
+    "production_year": 2019,
+    "budget": 14000
+  },
+  {
+    "id": 297,
+    "movie_name": "Ornamental Hairpin (Kanzashi)",
+    "movie_genre": "Drama",
+    "production_year": 1994,
+    "budget": 16000
+  },
+  {
+    "id": 298,
+    "movie_name": "Frankie and Johnny",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 1993,
+    "budget": 14000
+  },
+  {
+    "id": 299,
+    "movie_name": "Confessor, The (a.k.a. The Good Shepherd)",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2002,
+    "budget": 13000
+  },
+  {
+    "id": 300,
+    "movie_name": "Hearts of the West",
+    "movie_genre": "Comedy|Western",
+    "production_year": 1994,
+    "budget": 16000
+  },
+  {
+    "id": 301,
+    "movie_name": "Living Out Loud",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2008,
+    "budget": 20000
+  },
+  {
+    "id": 302,
+    "movie_name": "War Made Easy: How Presidents & Pundits Keep Spinning Us to Death",
+    "movie_genre": "Documentary|War",
+    "production_year": 2008,
+    "budget": 11000
+  },
+  {
+    "id": 303,
+    "movie_name": "Destination Moon",
+    "movie_genre": "Sci-Fi",
+    "production_year": 1998,
+    "budget": 19000
+  },
+  {
+    "id": 304,
+    "movie_name": "Muppet Treasure Island",
+    "movie_genre": "Adventure|Children|Comedy|Musical",
+    "production_year": 2006,
+    "budget": 9000
+  },
+  {
+    "id": 305,
+    "movie_name": "Come Out and Play",
+    "movie_genre": "Horror",
+    "production_year": 2018,
+    "budget": 12000
+  },
+  {
+    "id": 306,
+    "movie_name": "Modern Romance",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2015,
+    "budget": 10000
+  },
+  {
+    "id": 307,
+    "movie_name": "Two Shots Fired",
+    "movie_genre": "(no genres listed)",
+    "production_year": 2014,
+    "budget": 13000
+  },
+  {
+    "id": 308,
+    "movie_name": "Confessions of an Opium Eater",
+    "movie_genre": "Drama",
+    "production_year": 2016,
+    "budget": 18000
+  },
+  {
+    "id": 309,
+    "movie_name": "Resurrection, A",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2019,
+    "budget": 17000
+  },
+  {
+    "id": 310,
+    "movie_name": "Opportunity Knocks",
+    "movie_genre": "Comedy",
+    "production_year": 1997,
+    "budget": 16000
+  },
+  {
+    "id": 311,
+    "movie_name": "Freejack",
+    "movie_genre": "Action|Sci-Fi",
+    "production_year": 1990,
+    "budget": 19000
+  },
+  {
+    "id": 312,
+    "movie_name": "Berlin Babylon",
+    "movie_genre": "Documentary",
+    "production_year": 1997,
+    "budget": 10000
+  },
+  {
+    "id": 313,
+    "movie_name": "Marie Antoinette",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2013,
+    "budget": 14000
+  },
+  {
+    "id": 314,
+    "movie_name": "Yours, Mine and Ours",
+    "movie_genre": "Children|Comedy",
+    "production_year": 2012,
+    "budget": 10000
+  },
+  {
+    "id": 315,
+    "movie_name": "Christmas on Mars",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2008,
+    "budget": 12000
+  },
+  {
+    "id": 316,
+    "movie_name": "Shattered Glass",
+    "movie_genre": "Crime|Drama",
+    "production_year": 1997,
+    "budget": 18000
+  },
+  {
+    "id": 317,
+    "movie_name": "Bridge to the Sun",
+    "movie_genre": "Drama|Romance|War",
+    "production_year": 2007,
+    "budget": 15000
+  },
+  {
+    "id": 318,
+    "movie_name": "Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu)",
+    "movie_genre": "Adventure|Animation|Drama|Mystery|Sci-Fi",
+    "production_year": 1993,
+    "budget": 12000
+  },
+  {
+    "id": 319,
+    "movie_name": "Carrie",
+    "movie_genre": "Drama|Horror|Thriller",
+    "production_year": 1992,
+    "budget": 15000
+  },
+  {
+    "id": 320,
+    "movie_name": "Unsaid, The",
+    "movie_genre": "Crime|Drama|Mystery",
+    "production_year": 2004,
+    "budget": 15000
+  },
+  {
+    "id": 321,
+    "movie_name": "Bossa Nova",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2010,
+    "budget": 16000
+  },
+  {
+    "id": 322,
+    "movie_name": "Other Side of Heaven, The",
+    "movie_genre": "Adventure|Drama",
+    "production_year": 2020,
+    "budget": 19000
+  },
+  {
+    "id": 323,
+    "movie_name": "Red Baron, The (Der rote Baron)",
+    "movie_genre": "Action|Drama|Romance|War",
+    "production_year": 2004,
+    "budget": 9000
+  },
+  {
+    "id": 324,
+    "movie_name": "Creature Wasn't Nice, The (a.k.a. Naked Space) (a.k.a. Spaceship)",
+    "movie_genre": "Comedy|Horror|Musical|Sci-Fi",
+    "production_year": 2005,
+    "budget": 14000
+  },
+  {
+    "id": 325,
+    "movie_name": "Halloween: Resurrection (Halloween 8)",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 1994,
+    "budget": 19000
+  },
+  {
+    "id": 326,
+    "movie_name": "Bartleby",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2002,
+    "budget": 9000
+  },
+  {
+    "id": 327,
+    "movie_name": "Deer Hunter, The",
+    "movie_genre": "Drama|War",
+    "production_year": 1992,
+    "budget": 19000
+  },
+  {
+    "id": 328,
+    "movie_name": "Armageddon (Armaguedon)",
+    "movie_genre": "Crime|Thriller",
+    "production_year": 2019,
+    "budget": 9000
+  },
+  {
+    "id": 329,
+    "movie_name": "Lust, Caution (Se, jie)",
+    "movie_genre": "Drama|Romance|Thriller|War",
+    "production_year": 2014,
+    "budget": 9000
+  },
+  {
+    "id": 330,
+    "movie_name": "Jennifer's Body",
+    "movie_genre": "Comedy|Horror|Sci-Fi|Thriller",
+    "production_year": 2004,
+    "budget": 10000
+  },
+  {
+    "id": 331,
+    "movie_name": "Norma Jean & Marilyn",
+    "movie_genre": "Drama",
+    "production_year": 1995,
+    "budget": 10000
+  },
+  {
+    "id": 332,
+    "movie_name": "Wetlands (Feuchtgebiete)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2000,
+    "budget": 20000
+  },
+  {
+    "id": 333,
+    "movie_name": "Bandolero!",
+    "movie_genre": "Western",
+    "production_year": 1990,
+    "budget": 9000
+  },
+  {
+    "id": 334,
+    "movie_name": "Carry on Spying (Agent Oooh!)",
+    "movie_genre": "Comedy",
+    "production_year": 2017,
+    "budget": 12000
+  },
+  {
+    "id": 335,
+    "movie_name": "Indian in the Cupboard, The",
+    "movie_genre": "Adventure|Children|Fantasy",
+    "production_year": 1991,
+    "budget": 17000
+  },
+  {
+    "id": 336,
+    "movie_name": "Bombay Beach",
+    "movie_genre": "Documentary|Drama|Musical",
+    "production_year": 1997,
+    "budget": 19000
+  },
+  {
+    "id": 337,
+    "movie_name": "Dr. Horrible's Sing-Along Blog",
+    "movie_genre": "Comedy|Drama|Musical|Sci-Fi",
+    "production_year": 1996,
+    "budget": 11000
+  },
+  {
+    "id": 338,
+    "movie_name": "Doing Time on Maple Drive",
+    "movie_genre": "Drama",
+    "production_year": 2003,
+    "budget": 9000
+  },
+  {
+    "id": 339,
+    "movie_name": "Shadow of the Thin Man",
+    "movie_genre": "Comedy|Crime|Mystery",
+    "production_year": 1995,
+    "budget": 13000
+  },
+  {
+    "id": 340,
+    "movie_name": "G.I. Jane",
+    "movie_genre": "Action|Drama",
+    "production_year": 1995,
+    "budget": 10000
+  },
+  {
+    "id": 341,
+    "movie_name": "Midnight Run",
+    "movie_genre": "Action|Comedy|Crime|Thriller",
+    "production_year": 2018,
+    "budget": 11000
+  },
+  {
+    "id": 342,
+    "movie_name": "Prick Up Your Ears",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2011,
+    "budget": 20000
+  },
+  {
+    "id": 343,
+    "movie_name": "It Came from Outer Space",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2004,
+    "budget": 13000
+  },
+  {
+    "id": 344,
+    "movie_name": "Teddy Bear (Mis)",
+    "movie_genre": "Comedy|Crime",
+    "production_year": 2007,
+    "budget": 14000
+  },
+  {
+    "id": 345,
+    "movie_name": "Untamed Youth",
+    "movie_genre": "Drama",
+    "production_year": 2012,
+    "budget": 16000
+  },
+  {
+    "id": 346,
+    "movie_name": "La Putain du roi",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2000,
+    "budget": 12000
+  },
+  {
+    "id": 347,
+    "movie_name": "Don Juan",
+    "movie_genre": "Adventure|Drama|Romance",
+    "production_year": 2007,
+    "budget": 9000
+  },
+  {
+    "id": 348,
+    "movie_name": "Blind Dating",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2018,
+    "budget": 15000
+  },
+  {
+    "id": 349,
+    "movie_name": "Batman: Under the Red Hood",
+    "movie_genre": "Action|Animation",
+    "production_year": 1995,
+    "budget": 18000
+  },
+  {
+    "id": 350,
+    "movie_name": "Knights of Bloodsteel",
+    "movie_genre": "Fantasy",
+    "production_year": 2017,
+    "budget": 20000
+  },
+  {
+    "id": 351,
+    "movie_name": "Tamara Drewe",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 1996,
+    "budget": 10000
+  },
+  {
+    "id": 352,
+    "movie_name": "Earthquake",
+    "movie_genre": "Action|Drama|Thriller",
+    "production_year": 1998,
+    "budget": 12000
+  },
+  {
+    "id": 353,
+    "movie_name": "Don McKay",
+    "movie_genre": "Drama|Mystery|Thriller",
+    "production_year": 1994,
+    "budget": 17000
+  },
+  {
+    "id": 354,
+    "movie_name": "Terraferma",
+    "movie_genre": "Drama",
+    "production_year": 2015,
+    "budget": 17000
+  },
+  {
+    "id": 355,
+    "movie_name": "Fans",
+    "movie_genre": "Comedy",
+    "production_year": 1998,
+    "budget": 10000
+  },
+  {
+    "id": 356,
+    "movie_name": "Junebug",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2018,
+    "budget": 13000
+  },
+  {
+    "id": 357,
+    "movie_name": "A Magnificent Haunting",
+    "movie_genre": "Drama",
+    "production_year": 1993,
+    "budget": 13000
+  },
+  {
+    "id": 358,
+    "movie_name": "Night Ambush (Ill Met by Moonlight)",
+    "movie_genre": "Action|Adventure|Drama|War",
+    "production_year": 1996,
+    "budget": 11000
+  },
+  {
+    "id": 359,
+    "movie_name": "Sebastiane",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2019,
+    "budget": 12000
+  },
+  {
+    "id": 360,
+    "movie_name": "An American Hippie in Israel",
+    "movie_genre": "Action|Comedy|Sci-Fi",
+    "production_year": 1997,
+    "budget": 9000
+  },
+  {
+    "id": 361,
+    "movie_name": "Heathers",
+    "movie_genre": "Comedy",
+    "production_year": 2015,
+    "budget": 13000
+  },
+  {
+    "id": 362,
+    "movie_name": "The Tomb",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2009,
+    "budget": 18000
+  },
+  {
+    "id": 363,
+    "movie_name": "Cold Prey II (Fritt Vilt II)",
+    "movie_genre": "Horror",
+    "production_year": 2019,
+    "budget": 14000
+  },
+  {
+    "id": 364,
+    "movie_name": "Kumaré",
+    "movie_genre": "Documentary",
+    "production_year": 2006,
+    "budget": 14000
+  },
+  {
+    "id": 365,
+    "movie_name": "House (Hausu)",
+    "movie_genre": "Comedy|Fantasy|Horror",
+    "production_year": 1992,
+    "budget": 13000
+  },
+  {
+    "id": 366,
+    "movie_name": "Fallen Angels (Duo luo tian shi)",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2020,
+    "budget": 17000
+  },
+  {
+    "id": 367,
+    "movie_name": "Moonlight Serenade",
+    "movie_genre": "Drama",
+    "production_year": 2018,
+    "budget": 13000
+  },
+  {
+    "id": 368,
+    "movie_name": "Texas Chainsaw Massacre 2, The",
+    "movie_genre": "Horror",
+    "production_year": 2004,
+    "budget": 18000
+  },
+  {
+    "id": 369,
+    "movie_name": "Uncle Buck",
+    "movie_genre": "Comedy",
+    "production_year": 1993,
+    "budget": 15000
+  },
+  {
+    "id": 370,
+    "movie_name": "Mind Reader, The",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2011,
+    "budget": 17000
+  },
+  {
+    "id": 371,
+    "movie_name": "Anchors Aweigh",
+    "movie_genre": "Comedy|Musical",
+    "production_year": 1990,
+    "budget": 19000
+  },
+  {
+    "id": 372,
+    "movie_name": "Amy",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2002,
+    "budget": 9000
+  },
+  {
+    "id": 373,
+    "movie_name": "Bridge Too Far, A",
+    "movie_genre": "Action|Drama|War",
+    "production_year": 1997,
+    "budget": 15000
+  },
+  {
+    "id": 374,
+    "movie_name": "Souler Opposite, The",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 1994,
+    "budget": 17000
+  },
+  {
+    "id": 375,
+    "movie_name": "Nymph",
+    "movie_genre": "Fantasy|Horror",
+    "production_year": 2020,
+    "budget": 12000
+  },
+  {
+    "id": 376,
+    "movie_name": "Rancho Notorious",
+    "movie_genre": "Drama|Western",
+    "production_year": 2011,
+    "budget": 17000
+  },
+  {
+    "id": 377,
+    "movie_name": "Jim Jefferies: Alcoholocaust",
+    "movie_genre": "Comedy",
+    "production_year": 2018,
+    "budget": 19000
+  },
+  {
+    "id": 378,
+    "movie_name": "Ecstasy (Éxtasis)",
+    "movie_genre": "Drama",
+    "production_year": 2010,
+    "budget": 16000
+  },
+  {
+    "id": 379,
+    "movie_name": "Against the Dark",
+    "movie_genre": "Action|Horror",
+    "production_year": 2010,
+    "budget": 14000
+  },
+  {
+    "id": 380,
+    "movie_name": "Deep in the Valley (American Hot Babes)",
+    "movie_genre": "Comedy",
+    "production_year": 2006,
+    "budget": 12000
+  },
+  {
+    "id": 381,
+    "movie_name": "Carried Away",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1995,
+    "budget": 17000
+  },
+  {
+    "id": 382,
+    "movie_name": "Onegin",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2005,
+    "budget": 11000
+  },
+  {
+    "id": 383,
+    "movie_name": "Intohimon vallassa",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2018,
+    "budget": 13000
+  },
+  {
+    "id": 384,
+    "movie_name": "Gigli",
+    "movie_genre": "Comedy|Crime|Romance",
+    "production_year": 1992,
+    "budget": 11000
+  },
+  {
+    "id": 385,
+    "movie_name": "Cry Wolf",
+    "movie_genre": "Crime|Drama|Mystery|Thriller",
+    "production_year": 2009,
+    "budget": 12000
+  },
+  {
+    "id": 386,
+    "movie_name": "Dead Rising: Watchtower",
+    "movie_genre": "Action|Horror|Thriller",
+    "production_year": 1996,
+    "budget": 13000
+  },
+  {
+    "id": 387,
+    "movie_name": "Our Nixon",
+    "movie_genre": "Documentary",
+    "production_year": 2017,
+    "budget": 14000
+  },
+  {
+    "id": 388,
+    "movie_name": "Desperately Seeking Susan",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2001,
+    "budget": 13000
+  },
+  {
+    "id": 389,
+    "movie_name": "Brave",
+    "movie_genre": "Action|Adventure|Animation|Children",
+    "production_year": 2007,
+    "budget": 9000
+  },
+  {
+    "id": 390,
+    "movie_name": "Lord, Save Us from Your Followers",
+    "movie_genre": "Documentary",
+    "production_year": 2000,
+    "budget": 13000
+  },
+  {
+    "id": 391,
+    "movie_name": "Wedding Photographer, The (Bröllopsfotografen)",
+    "movie_genre": "Comedy|Drama|Romance",
+    "production_year": 2006,
+    "budget": 13000
+  },
+  {
+    "id": 392,
+    "movie_name": "Brigadoon",
+    "movie_genre": "Fantasy|Musical|Romance",
+    "production_year": 2014,
+    "budget": 15000
+  },
+  {
+    "id": 393,
+    "movie_name": "Unforgettable Summer, An (Un été inoubliable)",
+    "movie_genre": "Drama",
+    "production_year": 2014,
+    "budget": 19000
+  },
+  {
+    "id": 394,
+    "movie_name": "Dirty Pictures",
+    "movie_genre": "Drama",
+    "production_year": 1993,
+    "budget": 9000
+  },
+  {
+    "id": 395,
+    "movie_name": "Whitey: United States of America v. James J. Bulger",
+    "movie_genre": "Crime|Documentary",
+    "production_year": 1998,
+    "budget": 9000
+  },
+  {
+    "id": 396,
+    "movie_name": "Left-Hand Side of the Fridge, The (Moitié gauche du frigo, La)",
+    "movie_genre": "Comedy",
+    "production_year": 2008,
+    "budget": 20000
+  },
+  {
+    "id": 397,
+    "movie_name": "Pandora's Promise",
+    "movie_genre": "Documentary",
+    "production_year": 2003,
+    "budget": 18000
+  },
+  {
+    "id": 398,
+    "movie_name": "Deal, The",
+    "movie_genre": "Comedy",
+    "production_year": 2008,
+    "budget": 12000
+  },
+  {
+    "id": 399,
+    "movie_name": "Two Women (Ciociara, La)",
+    "movie_genre": "Drama|War",
+    "production_year": 2008,
+    "budget": 12000
+  },
+  {
+    "id": 400,
+    "movie_name": "Ride the Pink Horse",
+    "movie_genre": "Drama|Film-Noir|Mystery|Thriller",
+    "production_year": 2004,
+    "budget": 18000
+  },
+  {
+    "id": 401,
+    "movie_name": "Fanny",
+    "movie_genre": "Drama|Romance",
+    "production_year": 1990,
+    "budget": 9000
+  },
+  {
+    "id": 402,
+    "movie_name": "Too Much Sleep",
+    "movie_genre": "Comedy",
+    "production_year": 1996,
+    "budget": 9000
+  },
+  {
+    "id": 403,
+    "movie_name": "Mike Bassett: England Manager",
+    "movie_genre": "Comedy",
+    "production_year": 2012,
+    "budget": 12000
+  },
+  {
+    "id": 404,
+    "movie_name": "Victim",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2006,
+    "budget": 12000
+  },
+  {
+    "id": 405,
+    "movie_name": "Ninette",
+    "movie_genre": "Comedy",
+    "production_year": 2020,
+    "budget": 11000
+  },
+  {
+    "id": 406,
+    "movie_name": "Bastard Out of Carolina",
+    "movie_genre": "Drama",
+    "production_year": 2014,
+    "budget": 14000
+  },
+  {
+    "id": 407,
+    "movie_name": "Toy Story Toons: Small Fry",
+    "movie_genre": "Adventure|Animation|Children|Comedy|Fantasy",
+    "production_year": 2006,
+    "budget": 11000
+  },
+  {
+    "id": 408,
+    "movie_name": "Red Beard (Akahige)",
+    "movie_genre": "Drama",
+    "production_year": 1997,
+    "budget": 19000
+  },
+  {
+    "id": 409,
+    "movie_name": "Me Without You",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2004,
+    "budget": 17000
+  },
+  {
+    "id": 410,
+    "movie_name": "Toy Story 3",
+    "movie_genre": "Adventure|Animation|Children|Comedy|Fantasy|IMAX",
+    "production_year": 1996,
+    "budget": 16000
+  },
+  {
+    "id": 411,
+    "movie_name": "Hell's Highway: The True Story of Highway Safety Films",
+    "movie_genre": "Documentary",
+    "production_year": 2020,
+    "budget": 12000
+  },
+  {
+    "id": 412,
+    "movie_name": "Broken Arrow",
+    "movie_genre": "Drama|Romance|Western",
+    "production_year": 2017,
+    "budget": 14000
+  },
+  {
+    "id": 413,
+    "movie_name": "Liberation of L.B. Jones, The",
+    "movie_genre": "Crime|Drama",
+    "production_year": 1995,
+    "budget": 20000
+  },
+  {
+    "id": 414,
+    "movie_name": "Great White Silence, The",
+    "movie_genre": "Documentary",
+    "production_year": 2015,
+    "budget": 9000
+  },
+  {
+    "id": 415,
+    "movie_name": "Fright Night",
+    "movie_genre": "Comedy|Horror",
+    "production_year": 1999,
+    "budget": 15000
+  },
+  {
+    "id": 416,
+    "movie_name": "Love and a Bullet",
+    "movie_genre": "Action|Crime",
+    "production_year": 2002,
+    "budget": 18000
+  },
+  {
+    "id": 417,
+    "movie_name": "Art School Confidential",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2009,
+    "budget": 15000
+  },
+  {
+    "id": 418,
+    "movie_name": "Excalibur",
+    "movie_genre": "Adventure|Fantasy",
+    "production_year": 1996,
+    "budget": 14000
+  },
+  {
+    "id": 419,
+    "movie_name": "Dawn of the Planet of the Apes",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2001,
+    "budget": 18000
+  },
+  {
+    "id": 420,
+    "movie_name": "Valley of Head Hunters",
+    "movie_genre": "Adventure",
+    "production_year": 2016,
+    "budget": 18000
+  },
+  {
+    "id": 421,
+    "movie_name": "Eddie Izzard: Glorious",
+    "movie_genre": "Comedy",
+    "production_year": 2017,
+    "budget": 19000
+  },
+  {
+    "id": 422,
+    "movie_name": "Unbroken",
+    "movie_genre": "Drama|War",
+    "production_year": 2007,
+    "budget": 10000
+  },
+  {
+    "id": 423,
+    "movie_name": "Smitty",
+    "movie_genre": "Children|Drama",
+    "production_year": 2001,
+    "budget": 10000
+  },
+  {
+    "id": 424,
+    "movie_name": "Outside Providence",
+    "movie_genre": "Comedy",
+    "production_year": 1990,
+    "budget": 12000
+  },
+  {
+    "id": 425,
+    "movie_name": "Newcastle",
+    "movie_genre": "Drama",
+    "production_year": 2020,
+    "budget": 20000
+  },
+  {
+    "id": 426,
+    "movie_name": "Beast of Yucca Flats, The",
+    "movie_genre": "Horror|Sci-Fi",
+    "production_year": 2016,
+    "budget": 10000
+  },
+  {
+    "id": 427,
+    "movie_name": "Vampires Suck",
+    "movie_genre": "Comedy",
+    "production_year": 2014,
+    "budget": 9000
+  },
+  {
+    "id": 428,
+    "movie_name": "Mark of Cain, The",
+    "movie_genre": "Drama",
+    "production_year": 2004,
+    "budget": 17000
+  },
+  {
+    "id": 429,
+    "movie_name": "Train Robbers, The",
+    "movie_genre": "Western",
+    "production_year": 2014,
+    "budget": 14000
+  },
+  {
+    "id": 430,
+    "movie_name": "Indian Tomb, The (Das indische Grabmal)",
+    "movie_genre": "Adventure",
+    "production_year": 2013,
+    "budget": 9000
+  },
+  {
+    "id": 431,
+    "movie_name": "The Loyal 47 Ronin",
+    "movie_genre": "Drama",
+    "production_year": 2001,
+    "budget": 10000
+  },
+  {
+    "id": 432,
+    "movie_name": "The Feathered Serpent",
+    "movie_genre": "Comedy|Crime|Horror|Mystery|Thriller",
+    "production_year": 1997,
+    "budget": 14000
+  },
+  {
+    "id": 433,
+    "movie_name": "Good German, The",
+    "movie_genre": "Drama|Mystery|Thriller",
+    "production_year": 2002,
+    "budget": 19000
+  },
+  {
+    "id": 434,
+    "movie_name": "Python",
+    "movie_genre": "Comedy|Horror|Sci-Fi|Thriller",
+    "production_year": 2002,
+    "budget": 12000
+  },
+  {
+    "id": 435,
+    "movie_name": "Carcasses",
+    "movie_genre": "Documentary",
+    "production_year": 2006,
+    "budget": 14000
+  },
+  {
+    "id": 436,
+    "movie_name": "Sherlock Holmes in Pearl of Death (Pearl of Death, The)",
+    "movie_genre": "Crime|Horror|Mystery|Thriller",
+    "production_year": 2019,
+    "budget": 14000
+  },
+  {
+    "id": 437,
+    "movie_name": "Evil Toons",
+    "movie_genre": "Comedy|Horror",
+    "production_year": 2016,
+    "budget": 18000
+  },
+  {
+    "id": 438,
+    "movie_name": "Halloween II",
+    "movie_genre": "Horror|Thriller",
+    "production_year": 2007,
+    "budget": 11000
+  },
+  {
+    "id": 439,
+    "movie_name": "Visitors",
+    "movie_genre": "Documentary",
+    "production_year": 1996,
+    "budget": 13000
+  },
+  {
+    "id": 440,
+    "movie_name": "Holiday (Jour de fête)",
+    "movie_genre": "Comedy",
+    "production_year": 2002,
+    "budget": 20000
+  },
+  {
+    "id": 441,
+    "movie_name": "Time to Kill, A",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 2008,
+    "budget": 10000
+  },
+  {
+    "id": 442,
+    "movie_name": "Cement Garden, The",
+    "movie_genre": "Drama",
+    "production_year": 2011,
+    "budget": 11000
+  },
+  {
+    "id": 443,
+    "movie_name": "Resurrect Dead: The Mystery of the Toynbee Tiles",
+    "movie_genre": "Documentary|Mystery",
+    "production_year": 1991,
+    "budget": 17000
+  },
+  {
+    "id": 444,
+    "movie_name": "Shaun of the Dead",
+    "movie_genre": "Comedy|Horror",
+    "production_year": 1992,
+    "budget": 11000
+  },
+  {
+    "id": 445,
+    "movie_name": "Khartoum",
+    "movie_genre": "Action|Adventure|Drama|War",
+    "production_year": 1990,
+    "budget": 15000
+  },
+  {
+    "id": 446,
+    "movie_name": "Front of the Class",
+    "movie_genre": "Drama",
+    "production_year": 1996,
+    "budget": 16000
+  },
+  {
+    "id": 447,
+    "movie_name": "Sergeant Rutledge",
+    "movie_genre": "Crime|Western",
+    "production_year": 2009,
+    "budget": 9000
+  },
+  {
+    "id": 448,
+    "movie_name": "Dark Matter",
+    "movie_genre": "Drama",
+    "production_year": 1995,
+    "budget": 18000
+  },
+  {
+    "id": 449,
+    "movie_name": "Bucket of Blood, A (Dark Secrets) (Death Artist, The)",
+    "movie_genre": "Comedy|Horror|Thriller",
+    "production_year": 2014,
+    "budget": 17000
+  },
+  {
+    "id": 450,
+    "movie_name": "Piripäiväkirja",
+    "movie_genre": "Documentary",
+    "production_year": 2010,
+    "budget": 10000
+  },
+  {
+    "id": 451,
+    "movie_name": "My Mother's Castle (Château de ma mère, Le)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2002,
+    "budget": 15000
+  },
+  {
+    "id": 452,
+    "movie_name": "Sword of Desperation (Hisshiken torisashi)",
+    "movie_genre": "Action|Drama",
+    "production_year": 2016,
+    "budget": 10000
+  },
+  {
+    "id": 453,
+    "movie_name": "Wild Things",
+    "movie_genre": "Crime|Drama|Mystery|Thriller",
+    "production_year": 2019,
+    "budget": 20000
+  },
+  {
+    "id": 454,
+    "movie_name": "Crew, The",
+    "movie_genre": "Drama|Thriller",
+    "production_year": 1990,
+    "budget": 9000
+  },
+  {
+    "id": 455,
+    "movie_name": "Scream, Blacula, Scream!",
+    "movie_genre": "Horror",
+    "production_year": 1996,
+    "budget": 20000
+  },
+  {
+    "id": 456,
+    "movie_name": "Trans-Atlantic Tunnel (Tunnel, The)",
+    "movie_genre": "Drama|Sci-Fi",
+    "production_year": 2005,
+    "budget": 19000
+  },
+  {
+    "id": 457,
+    "movie_name": "My Perestroika",
+    "movie_genre": "Documentary",
+    "production_year": 2000,
+    "budget": 11000
+  },
+  {
+    "id": 458,
+    "movie_name": "They Won't Believe Me",
+    "movie_genre": "Drama|Film-Noir",
+    "production_year": 2017,
+    "budget": 11000
+  },
+  {
+    "id": 459,
+    "movie_name": "Beowulf",
+    "movie_genre": "Action|Horror|Sci-Fi",
+    "production_year": 1997,
+    "budget": 11000
+  },
+  {
+    "id": 460,
+    "movie_name": "Samurai I: Musashi Miyamoto (Miyamoto Musashi)",
+    "movie_genre": "Action|Adventure|Drama",
+    "production_year": 2008,
+    "budget": 12000
+  },
+  {
+    "id": 461,
+    "movie_name": "Big Nothing",
+    "movie_genre": "Comedy|Crime|Thriller",
+    "production_year": 2005,
+    "budget": 9000
+  },
+  {
+    "id": 462,
+    "movie_name": "Perfume",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2019,
+    "budget": 14000
+  },
+  {
+    "id": 463,
+    "movie_name": "In the Mix",
+    "movie_genre": "Comedy|Crime|Romance",
+    "production_year": 1997,
+    "budget": 10000
+  },
+  {
+    "id": 464,
+    "movie_name": "Slumber Party '57",
+    "movie_genre": "(no genres listed)",
+    "production_year": 2000,
+    "budget": 16000
+  },
+  {
+    "id": 465,
+    "movie_name": "Rio Rita",
+    "movie_genre": "Comedy|Musical|Romance",
+    "production_year": 2005,
+    "budget": 12000
+  },
+  {
+    "id": 466,
+    "movie_name": "Extreme Prejudice",
+    "movie_genre": "Action",
+    "production_year": 2009,
+    "budget": 16000
+  },
+  {
+    "id": 467,
+    "movie_name": "Eklavya: The Royal Guard",
+    "movie_genre": "Action|Drama|Thriller",
+    "production_year": 2005,
+    "budget": 18000
+  },
+  {
+    "id": 468,
+    "movie_name": "Street Fighter: Assassin's Fist",
+    "movie_genre": "Action|Adventure|Drama|Thriller",
+    "production_year": 1995,
+    "budget": 20000
+  },
+  {
+    "id": 469,
+    "movie_name": "And Starring Pancho Villa as Himself",
+    "movie_genre": "Action|Comedy|Drama|War",
+    "production_year": 1992,
+    "budget": 11000
+  },
+  {
+    "id": 470,
+    "movie_name": "Dancing Lady",
+    "movie_genre": "Comedy|Musical|Romance",
+    "production_year": 1993,
+    "budget": 12000
+  },
+  {
+    "id": 471,
+    "movie_name": "First Love",
+    "movie_genre": "Comedy|Musical",
+    "production_year": 1997,
+    "budget": 15000
+  },
+  {
+    "id": 472,
+    "movie_name": "Fifth Element, The",
+    "movie_genre": "Action|Adventure|Comedy|Sci-Fi",
+    "production_year": 2017,
+    "budget": 14000
+  },
+  {
+    "id": 473,
+    "movie_name": "Summer of '04 (Sommer '04)",
+    "movie_genre": "Drama",
+    "production_year": 1998,
+    "budget": 14000
+  },
+  {
+    "id": 474,
+    "movie_name": "Rouge (Yin ji kau)",
+    "movie_genre": "Drama|Fantasy|Mystery|Romance",
+    "production_year": 1993,
+    "budget": 19000
+  },
+  {
+    "id": 475,
+    "movie_name": "Agony (a.k.a. Rasputin) (Agoniya)",
+    "movie_genre": "Drama",
+    "production_year": 2019,
+    "budget": 18000
+  },
+  {
+    "id": 476,
+    "movie_name": "Taste the Blood of Dracula",
+    "movie_genre": "Horror",
+    "production_year": 1993,
+    "budget": 16000
+  },
+  {
+    "id": 477,
+    "movie_name": "Miss March",
+    "movie_genre": "Comedy",
+    "production_year": 2004,
+    "budget": 11000
+  },
+  {
+    "id": 478,
+    "movie_name": "High Art",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2011,
+    "budget": 9000
+  },
+  {
+    "id": 479,
+    "movie_name": "Herr Lehmann",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2010,
+    "budget": 11000
+  },
+  {
+    "id": 480,
+    "movie_name": "Story of My Life, The (Mensonges et trahisons et plus si affinités...)",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2019,
+    "budget": 14000
+  },
+  {
+    "id": 481,
+    "movie_name": "Three Lives and Only One Death (Trois vies & une seule mort)",
+    "movie_genre": "Comedy",
+    "production_year": 2006,
+    "budget": 16000
+  },
+  {
+    "id": 482,
+    "movie_name": "6954 Kilometriä Kotiin",
+    "movie_genre": "Documentary",
+    "production_year": 1997,
+    "budget": 19000
+  },
+  {
+    "id": 483,
+    "movie_name": "Plastic Age, The",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 1990,
+    "budget": 12000
+  },
+  {
+    "id": 484,
+    "movie_name": "John Garfield Story, The",
+    "movie_genre": "Documentary",
+    "production_year": 2000,
+    "budget": 16000
+  },
+  {
+    "id": 485,
+    "movie_name": "Grudge 3, The",
+    "movie_genre": "Horror",
+    "production_year": 2008,
+    "budget": 15000
+  },
+  {
+    "id": 486,
+    "movie_name": "My Science Project",
+    "movie_genre": "Adventure|Sci-Fi",
+    "production_year": 1997,
+    "budget": 18000
+  },
+  {
+    "id": 487,
+    "movie_name": "Parallels",
+    "movie_genre": "Sci-Fi",
+    "production_year": 2017,
+    "budget": 11000
+  },
+  {
+    "id": 488,
+    "movie_name": "Kummeli Stories",
+    "movie_genre": "Comedy",
+    "production_year": 2005,
+    "budget": 13000
+  },
+  {
+    "id": 489,
+    "movie_name": "Something in the Wind",
+    "movie_genre": "Comedy|Musical",
+    "production_year": 2009,
+    "budget": 16000
+  },
+  {
+    "id": 490,
+    "movie_name": "Falcon Rising",
+    "movie_genre": "Action|Adventure",
+    "production_year": 1991,
+    "budget": 10000
+  },
+  {
+    "id": 491,
+    "movie_name": "Forty Guns",
+    "movie_genre": "Drama|Western",
+    "production_year": 2016,
+    "budget": 18000
+  },
+  {
+    "id": 492,
+    "movie_name": "Mi Amigo Hugo",
+    "movie_genre": "Documentary",
+    "production_year": 1991,
+    "budget": 9000
+  },
+  {
+    "id": 493,
+    "movie_name": "Morgan Pålsson - världsreporter",
+    "movie_genre": "Action|Comedy",
+    "production_year": 2007,
+    "budget": 16000
+  },
+  {
+    "id": 494,
+    "movie_name": "Love in Another Language (Baska Dilde Ask)",
+    "movie_genre": "Drama|Romance",
+    "production_year": 2000,
+    "budget": 14000
+  },
+  {
+    "id": 495,
+    "movie_name": "Sorority Wars",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 2005,
+    "budget": 19000
+  },
+  {
+    "id": 496,
+    "movie_name": "Twisted Nerve",
+    "movie_genre": "Crime|Drama|Horror|Thriller",
+    "production_year": 2010,
+    "budget": 18000
+  },
+  {
+    "id": 497,
+    "movie_name": "After You (Après vous...)",
+    "movie_genre": "Comedy|Romance",
+    "production_year": 2016,
+    "budget": 13000
+  },
+  {
+    "id": 498,
+    "movie_name": "Att stjäla en tjuv",
+    "movie_genre": "Comedy",
+    "production_year": 2007,
+    "budget": 10000
+  },
+  {
+    "id": 499,
+    "movie_name": "Light Sleeper",
+    "movie_genre": "Crime|Drama",
+    "production_year": 2002,
+    "budget": 14000
+  },
+  {
+    "id": 500,
+    "movie_name": "Wise Guys, The (Les grandes gueules)",
+    "movie_genre": "Comedy|Drama",
+    "production_year": 1999,
+    "budget": 11000
+  }
+]
