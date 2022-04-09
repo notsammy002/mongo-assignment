@@ -5,9 +5,7 @@ const cors = require("cors");
 const DB_URL = "mongodb://127.0.0.1:27017/test/books";
 
 //import of controllerrs
-const authorController = require("./controllers/author.controller")
-const bookController = require("./controllers/book.controller")
-const sectionController = require("./controllers/section.controller")
+const leadController = require("./controllers/lead.controller")
 
 
 let app = express();
@@ -18,9 +16,8 @@ const connect = () =>{
 }
 
 //to access the controllers we use middleware
-app.use("/sections", sectionController);
-app.use("/authors", authorController);
-app.use("/books", bookController);
+app.use("/leads", leadController);
+
 
 app.listen(PORT, async() => {
     try{
